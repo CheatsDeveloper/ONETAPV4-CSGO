@@ -1,3 +1,3 @@
-Google drive will detect this as a virus. I can asure you that this is a false flag and happens because of it connecting to our auth servers.
+Google drive and sometimes windows will detect this as a virus. I can asure you that this is a false flag and happens because of it connecting to our auth servers.
 
 https://drive.google.com/drive/folders/1FzUUlGTnJmr1GyM5W8VznxzPAurEgcAS?usp=sharing
